@@ -1,0 +1,14 @@
+C:\Users\Egor\Documents\GLP\RGZ\bin\Debug\net6.0\RGZ.exe
+C:\Users\Egor\Documents\GLP\RGZ\bin\Debug\net6.0\RGZ.deps.json
+C:\Users\Egor\Documents\GLP\RGZ\bin\Debug\net6.0\RGZ.runtimeconfig.json
+C:\Users\Egor\Documents\GLP\RGZ\bin\Debug\net6.0\RGZ.dll
+C:\Users\Egor\Documents\GLP\RGZ\bin\Debug\net6.0\RGZ.pdb
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.AssemblyInfoInputs.cache
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.AssemblyInfo.cs
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.dll
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\refint\RGZ.dll
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.pdb
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\RGZ.genruntimeconfig.cache
+C:\Users\Egor\Documents\GLP\RGZ\obj\Debug\net6.0\ref\RGZ.dll
